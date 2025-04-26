@@ -10,7 +10,15 @@ h1 {
     margin-left: 480px;
 }
 
-filet { 
-    padding: 100px;
-    border: 1px solid red;
+.steaks-first {
+    font-size: 16px;
+    color: purple;
+}
+
+.steaks-second {
+    color: purple;
+}
+
+.steak-image {
+    margin-left: 480px;
 }
