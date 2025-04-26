@@ -2,12 +2,12 @@
     font-family:'Times New Roman', Times, serif
 }
 
-h1 {
+.odin-one,
+.filet-heading {
     color: green;
     text-align: center;
     border: 1px solid green;
-    width: 400px;
-    margin-left: 480px;
+    
 }
 
 .steaks-first {
@@ -20,5 +20,42 @@ h1 {
 }
 
 .steak-image {
-    margin-left: 480px;
+    margin-left: 735px;
+    padding: 20px;
+    height: 300px;
+    width: 400px;
 }
+
+.pork-heading {
+    color: palevioletred;
+    border: 1px solid palevioletred;
+    text-align: center;
+}
+
+.pork-image {
+    margin-left: 735px;
+    width: 400px;
+}
+
+.pork-ingredients, 
+.pork-steps {
+    color: lightcoral;
+}
+
+.chicken-ingredients,
+.chicken-steps { 
+    color: rgb(255, 0, 0)
+}
+
+.chicken-image {
+    margin-left: 735px;
+    width: 400px;
+    height: 300px;
+}
+
+.chicken-heading {
+    color: rgb(255, 0, 0);
+    border: 1px solid rgb(255, 0, 0);
+    text-align: center;
+}
+            
